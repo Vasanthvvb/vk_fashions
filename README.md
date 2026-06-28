@@ -1,4 +1,4 @@
-# Lumière Checkout Page
+# VkFashions Checkout Page
 
 A modern, elegant checkout page with Google Pay integration, featuring a dark theme and gold accent colors.
 
